@@ -1,0 +1,16 @@
+{
+  "name": "rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-log-colors": "^0.4.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
