@@ -1,6 +1,6 @@
 [
     {
-       "id": "1",
+       "id": 1,
        "Name":"Chevrolet",
        "Model": "Chevelle",
        "Miles_per_Gallon":18,
@@ -13,7 +13,7 @@
        "Origin":"USA"
     },
     {
-       "id": "2",
+       "id": 2,
        "Name":"Ford",
        "Model": "Torino",
        "Miles_per_Gallon":17,
@@ -26,7 +26,7 @@
        "Origin":"USA"
     },
     {
-       "id": "3",
+       "id": 3,
        "Name":"Citroen",
        "Model": "DS21",
        "Miles_per_Gallon":null,
@@ -39,7 +39,7 @@
        "Origin":"Europe"
     },
     {
-        "id": "4",
+        "id": 4,
         "Name":"Dodge",
         "Model": "Challenger",
         "Miles_per_Gallon":15,
