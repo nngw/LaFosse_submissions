@@ -54,9 +54,9 @@ app.post('/cars/', (req,res) => {
     } else {
         res.status(409).send("ERROR: That car already exists in the system.")
     }
-
-    res.send("sending")
 })
 
+//Patch
+//Delete
 
 module.exports = app;
